@@ -1,2 +1,2 @@
 # guess_word
-#guess a word from scrambled up words
+guess a word from scrambled up words
